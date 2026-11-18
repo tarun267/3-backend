@@ -1,0 +1,20 @@
+{
+  "name": "3-bacend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "products.mongodb.js",
+  "scripts": {
+    "dev":"nodemon server.js",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.2",
+    "nodemon": "^3.1.14"
+  }
+}
